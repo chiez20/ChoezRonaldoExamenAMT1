@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: primaryColor,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: const ListScreen(title: 'Información de aviones por Ronaldo Choez'),
+      home: const ListScreen(title: 'Caracteristicas de Aviones de combate por Evelyn Valdez'),
     );
   }
 }

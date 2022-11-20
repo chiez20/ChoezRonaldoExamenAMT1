@@ -51,7 +51,7 @@ class AvionWidget extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
                   Text('Nombre : ${avion.nombre}', style: fromTextStyle),
-                   Text('Capacidad tripulantes :${avion.capacidad}', style: subjectTextStyle),
+                   Text('Capacidad :${avion.capacidad}', style: subjectTextStyle),
                   Text('Valor USD : ${avion.valor}',
                       style: fromTextStyle),
                  
